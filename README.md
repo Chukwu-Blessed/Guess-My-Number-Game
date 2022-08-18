@@ -1,1 +1,1 @@
-# Pig-Game
+# Guess-My-Number-Game
