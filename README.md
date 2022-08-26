@@ -23,4 +23,4 @@ I have created a simple *Guess my Number* game. It chooses a random number betwe
 9. Player is able to restart the game.
 18. Once the game restarts, make sure the game logic and UI are completely reset, then go back to step 1.
 
-##DO HAVE FUN 
+## DO HAVE FUN 
