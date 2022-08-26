@@ -1,6 +1,6 @@
 # Guess-My-Number-Game :sparkling_heart:
+![Screenshot (22)](https://user-images.githubusercontent.com/105377659/186932411-1866530a-5c67-40fa-99bd-4099535c4fb3.png)
 
-![Guess-the-Number Game Mockup](mockup.PNG)
 
 I have created a simple *Guess my Number* game. It chooses a random number between 1 and 20 and then challenges the player to guess the number in 20 turns. After each turn the player is told if they are right or wrong. In the case that they are wrong, they are told whether the guess was too low or too high. The game ends once the player guesses correctly, or once they run out of turns. When the game ends, the player is given an option to start playing again and the highScore is recorded.
 
@@ -23,4 +23,4 @@ I have created a simple *Guess my Number* game. It chooses a random number betwe
 9. Player is able to restart the game.
 18. Once the game restarts, make sure the game logic and UI are completely reset, then go back to step 1.
 
-Credit to: [MDN Documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+##DO HAVE FUN 
